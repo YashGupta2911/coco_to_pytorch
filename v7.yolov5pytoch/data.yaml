@@ -1,0 +1,64 @@
+names:
+  - ACKO
+  - Adidas
+  - Amazon
+  - Amul
+  - Aramco
+  - BCCI
+  - Booking.com
+  - Byjus
+  - CRED
+  - Ceat
+  - Chennai Super kings
+  - Cred
+  - Deccan Chargers
+  - Delhi Capitals
+  - Domino-s
+  - Dream11
+  - EBIX Cash
+  - Emirates
+  - Fbb
+  - Go Daddy
+  - Gujarat Titans
+  - Gujarat lions
+  - Gulf
+  - Hotstar
+  - IPL
+  - JK lakshmi cement
+  - Jio
+  - Kochi Tuskers
+  - Kolkata Knigth Riders
+  - Lucknow Super Giants
+  - MPL
+  - MRF
+  - Mountain Dew
+  - Mumbai Indians
+  - Myntra
+  - Oppo
+  - Paytm
+  - Pepsi
+  - Postpe
+  - Pune Warriors
+  - Punjab Kings
+  - Rajasthan Royals
+  - Rising Pune Supergiants
+  - Royal Challengers Bangalore
+  - Rupay
+  - Slice IPL
+  - Star Sports
+  - Sunrisers Hyderabad
+  - Swiggy
+  - TATA
+  - TATA Safari
+  - TVS Eurogrip
+  - Unacademy
+  - Unicef
+  - Upstox
+  - Vivo
+  - safari
+  - Label
+  - Label
+nc: 60
+test: ../test/images
+train: ../train/images
+val: ../to/valid/images
